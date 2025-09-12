@@ -1,4 +1,4 @@
-name: Build Dev Board Firmware (Flippy)
+name: Build Dev Board Firmware(Flippy)
 on:
   workflow_dispatch:
     inputs:
